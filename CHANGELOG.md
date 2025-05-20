@@ -12,7 +12,14 @@ What I Learned In today's Lecture?
     WARNING: parse-long already refers to: #'clojure.core/parse-long in namespace: cuerdas.core, being replaced by: #'cuerdas.core/parse-long
 
 * jar、デカくね？
+* github 引越し
 
+
+## v2.24.0 / 2025-05-20
+
+* 5行の WIL は内容がわからない。
+
+    (def shortest-wil "これ以上短い行の WIL は受け付けない" 10)
 
 ## v2.23.4 / 2025-04-18
 
