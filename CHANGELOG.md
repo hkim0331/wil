@@ -15,7 +15,7 @@ What I Learned In today's Lecture?
 * github 引越し
 
 
-## v2.24.0-SNAPSHOT
+## v2.24.0 / 2025-05-20
 
 * 5行の WIL は内容がわからない。
 
